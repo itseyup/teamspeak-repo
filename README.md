@@ -1,5 +1,5 @@
 # TeamSpeak Repo
-* TeamSpeak's client and server repo,
+* TeamSpeak's client and server repository
 * mirror of http://ftp.4players.de/pub/hosted/ts3/
 # Why did I need a mirror?
 * Sadly, I don't trust any of websites these days. All of the small companies falls down. 
